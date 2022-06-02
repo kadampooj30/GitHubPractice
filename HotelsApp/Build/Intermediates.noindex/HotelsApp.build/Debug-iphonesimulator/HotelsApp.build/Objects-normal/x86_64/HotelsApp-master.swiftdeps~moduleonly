@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "b48f1912a8e3c51374c8a210d289be17"
+build_time: [1654146177, 267934000]
+inputs:
+  "/Users/pooja/Desktop/PracticeGithub/GitHubPractice/HotelsApp/HotelsApp/ViewController.swift": [1654146166, 522593377]
+  "/Users/pooja/Desktop/PracticeGithub/GitHubPractice/HotelsApp/HotelsApp/AppDelegate.swift": [1654146166, 499723840]
+  "/Users/pooja/Desktop/PracticeGithub/GitHubPractice/HotelsApp/HotelsApp/SceneDelegate.swift": [1654146166, 520294219]
